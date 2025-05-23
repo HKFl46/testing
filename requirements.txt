@@ -1,0 +1,10 @@
+python-dotenv
+pyrofork
+tgcrypto
+motor
+colorama
+git+https://github.com/HKFl46/testing1234.git
+dnspython
+flask
+gunicorn
+requests
